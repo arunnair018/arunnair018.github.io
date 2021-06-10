@@ -18,6 +18,11 @@
   color: rebeccapurple;
 }
 
+.badge-purple {
+  background-color: #6f42c1;
+  color: white;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
