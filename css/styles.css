@@ -19,8 +19,8 @@
 }
 
 .badge-purple {
-  background-color: #6f42c1;
-  color: white;
+  background-color: rgb(248, 167, 248);
+  color: black;
 }
 
 :root {
@@ -37,7 +37,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #9e6cf0;
+  --primary: #c49fff;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -10200,7 +10200,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: indigo !important;
+  color: rgb(167, 43, 255) !important;
 }
 
 a.text-primary:hover,
